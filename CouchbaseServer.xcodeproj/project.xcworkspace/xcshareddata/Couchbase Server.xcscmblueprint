@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0AF0421E20E2B0DB86724CEEC6DAD6535C5395DF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0AF0421E20E2B0DB86724CEEC6DAD6535C5395DF" : 9223372036854775807,
+    "2AACD439E64F71FB8D58B50B2E31BC7336B4DFD5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46A89F3E-7120-49A1-AACE-0F235EC008F5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0AF0421E20E2B0DB86724CEEC6DAD6535C5395DF" : "couchdbx-app\/",
+    "2AACD439E64F71FB8D58B50B2E31BC7336B4DFD5" : "..\/build"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Couchbase Server",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Couchbase Server.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/couchbase\/couchdbx-app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0AF0421E20E2B0DB86724CEEC6DAD6535C5395DF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/couchbase\/build",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2AACD439E64F71FB8D58B50B2E31BC7336B4DFD5"
+    }
+  ]
+}
